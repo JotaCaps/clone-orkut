@@ -1,0 +1,9 @@
+@media screen and (min-width:750px) {
+    .container_perfil {
+        display: flex; 
+        flex-direction: row !important;
+        justify-content: space-between;
+
+    }
+}
+  

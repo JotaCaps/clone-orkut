@@ -30,10 +30,6 @@
     margin: 5% 10%;
 }
 
-.pink_font {
-    color: #E8258E;
-}
-
 #filed_title {
     font-size: 13px;
     font-weight: bold;
@@ -71,12 +67,10 @@
 #btnlogin {
     width: 100%;
     border: none;
-    background-color: #E8258E;
     color: white;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
-    cursor: pointer;
 }
 
 .fields_recovery > a{

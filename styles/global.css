@@ -1,0 +1,22 @@
+:root {
+    background-color: #ffd0f7 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pink_font {
+    color: #E8258E;
+}
+
+.orkut-font-color-default {
+    color: #474747;
+}
+
+.orkut-button-bg {
+    background-color: #E8258E;
+    cursor: pointer;
+}
+
+.orkut-link {
+  text-decoration: none;  
+  font-weight: 500;
+}
