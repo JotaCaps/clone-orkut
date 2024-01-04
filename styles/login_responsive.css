@@ -1,0 +1,62 @@
+@media screen and (min-width:600px) {
+    .container{
+        margin-top: 20px;
+    }
+
+    #filed_title {
+        font-size: 20px;
+    }
+
+    .fileds_textboxs {
+        height: 130px;
+    }
+
+    .fileds_textboxs > input {
+        height: 60px;
+    }
+
+    .fields_recovery {
+        margin-bottom: 40px;
+    }
+
+    #btnlogin {
+        padding: 13px;
+    }
+
+}
+
+@media screen and (max-width:320px) {
+    .container {
+        width: 250px;
+
+    }
+
+    #filed_title {
+        font-size: 10px;
+    }
+    .fields_create {
+        font-size: 14px;
+    }  
+
+    .fileds_textboxs {
+        height: 70px;
+    }
+
+    #btnlogin {
+        padding: 8px;
+        margin-top: 8px;
+    }
+
+    .fields_recovery {
+        font-size: 12px;
+    }
+
+    .fields_remember {
+        margin: 5px;
+        font-size: 12px;
+    }
+
+}
+
+
+    
